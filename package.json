@@ -1,0 +1,16 @@
+{
+  "name": "todoback",
+  "version": "1.0.0",
+  "description": "first todo app with mern and git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first-mern",
+    "git",
+    "todo"
+  ],
+  "author": "rutvikparmar",
+  "license": "ISC"
+}
